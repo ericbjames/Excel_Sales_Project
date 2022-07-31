@@ -6,7 +6,7 @@
 ### Original Data Formatting
 Without cleaning and formatting the data, no insights could have been gained. The data came in individual month .csv files with many blanks and duplicated values.
 <p align="center">
-<img width="568" alt="Original formating" src="https://user-images.githubusercontent.com/101911329/182044263-21b0d4d8-7ed8-4a53-a015-46f762073c5b.png">
+<img width="600" alt="Original formating" src="https://user-images.githubusercontent.com/101911329/182044263-21b0d4d8-7ed8-4a53-a015-46f762073c5b.png">
 </p>
 
 # Data Preparation
@@ -20,13 +20,13 @@ Tasks completed during preparations step:
 View code [Here](https://github.com/ericbjames/Excel_Sales_Project/blob/main/Data%20Preparation.ipynb)
 
 <p align="center">
-<img width="566" alt="Import   Cleaning" src="https://user-images.githubusercontent.com/101911329/182038453-c7787c04-0ec8-4139-8417-fe33ce7d9c75.png">
+<img width="600" alt="Import   Cleaning" src="https://user-images.githubusercontent.com/101911329/182038453-c7787c04-0ec8-4139-8417-fe33ce7d9c75.png">
 </p>
 <p align="center">
-<img width="561" alt="Create and separate columns" src="https://user-images.githubusercontent.com/101911329/182038450-db9ed136-eb0d-4bda-ad84-b9a1cdd0bc9b.png">
+<img width="600" alt="Create and separate columns" src="https://user-images.githubusercontent.com/101911329/182038450-db9ed136-eb0d-4bda-ad84-b9a1cdd0bc9b.png">
 </p>
 <p align="center">
-<img width="569" alt="Export" src="https://user-images.githubusercontent.com/101911329/182038452-b6ee1b1f-bde7-4bee-94b7-5c8776941baa.png">
+<img width="600" alt="Export" src="https://user-images.githubusercontent.com/101911329/182038452-b6ee1b1f-bde7-4bee-94b7-5c8776941baa.png">
 </p>
 
 # Data Analysis
