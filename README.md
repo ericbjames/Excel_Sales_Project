@@ -2,7 +2,8 @@
 ## Objectives
 - 
 -
-- 
+
+
 # Data Preparation
 View code [Here](https://github.com/ericbjames/Excel_Sales_Project/blob/main/Data%20Preparation.ipynb)
 
