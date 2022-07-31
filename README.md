@@ -3,13 +3,19 @@
 - 
 -
 
+### Original Data Formatting
+Without cleaning and formatting the data, no insights could have been gained. The data came in individual month .csv files with many blanks and duplicated values.
+<p align="center">
+<img width="568" alt="Original formating" src="https://user-images.githubusercontent.com/101911329/182044263-21b0d4d8-7ed8-4a53-a015-46f762073c5b.png">
+</p>
 
 # Data Preparation
 Tasks completed during preparations step:
-- Combine the 12 individual month .csv files into one.
+- Combine the 12 individual .csv files.
 - Clean rows with blanks and duplicates.
 - Split columns with multiple pieces of information such as date/time or purchaser's address.
 - Create a new copy with only the columns necessary for analysis.
+- Categorize product types to aid in future analysis and visualization.
 
 View code [Here](https://github.com/ericbjames/Excel_Sales_Project/blob/main/Data%20Preparation.ipynb)
 
