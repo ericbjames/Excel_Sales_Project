@@ -4,7 +4,7 @@
 -
 - 
 # Data Preparation
-View code [Here](Data Preparation.ipynb)
+View code [Here](https://github.com/ericbjames/Excel_Sales_Project/blob/main/Data%20Preparation.ipynb)
 
 <img width="561" alt="Create and separate columns" src="https://user-images.githubusercontent.com/101911329/182038450-db9ed136-eb0d-4bda-ad84-b9a1cdd0bc9b.png">
 <img width="569" alt="Export" src="https://user-images.githubusercontent.com/101911329/182038452-b6ee1b1f-bde7-4bee-94b7-5c8776941baa.png">
