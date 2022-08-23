@@ -2,6 +2,7 @@
 ## Objectives
 - 
 -
+-
 
 ### Original Data Formatting
 Without cleaning and formatting the data, no insights could have been gained. The data came in individual month .csv files with many blanks and duplicated values.
