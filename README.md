@@ -32,12 +32,12 @@ View code [Here](https://github.com/ericbjames/Excel_Sales_Project/blob/main/Dat
 # Data Analysis
 ### Sales by Product
 <p align="center">
-<img width="600" alt="Sales by Product" src="<img width="409" alt="Sales By Product" src="https://user-images.githubusercontent.com/101911329/186280316-02f8a6a7-d5b1-4761-b1d6-27d154c35737.png">
+<img width="600" alt="Sales by Product" src= "https://user-images.githubusercontent.com/101911329/186280316-02f8a6a7-d5b1-4761-b1d6-27d154c35737.png">
 ">
 </p>
 ### Sales by Category
 <p align="center">
-<img width="600" alt="Sales by Category " src="https://user-images.githubusercontent.com/101911329/181634820-c98646e4-96f8-4df9-93d3-cdf78888a55e.png">
+<img width="600" alt="Sales by Category" src="https://user-images.githubusercontent.com/101911329/181634820-c98646e4-96f8-4df9-93d3-cdf78888a55e.png">
 </p>
 ### Top 5 Cities by Sales
 <p align="center">
