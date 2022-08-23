@@ -33,7 +33,7 @@ View code [Here](https://github.com/ericbjames/Excel_Sales_Project/blob/main/Dat
 ### Sales by Product
 <p align="center">
 <img width="600" alt="Sales by Product" src= "https://user-images.githubusercontent.com/101911329/186280316-02f8a6a7-d5b1-4761-b1d6-27d154c35737.png">
-">
+
 </p>
 ### Sales by Category
 <p align="center">
