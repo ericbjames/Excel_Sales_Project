@@ -1,8 +1,7 @@
 # Excel_Sales_Project
-## Objectives
-- 
--
--
+## Overview
+- Used Python (Pandas) to clean a years worth of sales data from a mock technology retail company containing over 180,000 rows.
+- Visualized and gained insights from data by building a dashboard through Excel which included sales by city, product, and time.
 
 ### Original Data Formatting
 Without cleaning and formatting the data, no insights could have been gained. The data came in individual month .csv files with many blanks and duplicated values.
@@ -30,7 +29,6 @@ View code [Here](https://github.com/ericbjames/Excel_Sales_Project/blob/main/Dat
 <img width="600" alt="Export" src="https://user-images.githubusercontent.com/101911329/182038452-b6ee1b1f-bde7-4bee-94b7-5c8776941baa.png">
 </p>
 
-# Data Analysis
 ### Sales by Product
 <p align="center">
 <img width="600" alt="Sales by Product" src= "https://user-images.githubusercontent.com/101911329/186280316-02f8a6a7-d5b1-4761-b1d6-27d154c35737.png">
@@ -57,5 +55,3 @@ View code [Here](https://github.com/ericbjames/Excel_Sales_Project/blob/main/Dat
 <p align="center">
 <img width="1112" alt="Dashboard" src="https://user-images.githubusercontent.com/101911329/181634710-dbcfc90b-b964-4f27-b836-8b3970d7c257.png">
 </p>
-
-# Insights
