@@ -19,6 +19,17 @@ Tasks completed during preparations step:
 
 View code [Here](https://github.com/ericbjames/Excel_Sales_Project/blob/main/Data%20Preparation.ipynb)
 
+
+<p align="center">
+<img width="600" alt="Import   Cleaning" src="https://user-images.githubusercontent.com/101911329/182038453-c7787c04-0ec8-4139-8417-fe33ce7d9c75.png">
+</p>
+<p align="center">
+<img width="600" alt="Create and separate columns" src="https://user-images.githubusercontent.com/101911329/182038450-db9ed136-eb0d-4bda-ad84-b9a1cdd0bc9b.png">
+</p>
+<p align="center">
+<img width="600" alt="Export" src="https://user-images.githubusercontent.com/101911329/182038452-b6ee1b1f-bde7-4bee-94b7-5c8776941baa.png">
+</p>
+
 # Analysis
 
 ## Insights:
@@ -37,16 +48,6 @@ View code [Here](https://github.com/ericbjames/Excel_Sales_Project/blob/main/Dat
 - What is the typical customer profile? Student or business?
 - Gaining access to data for the profit/loss of products would help decide on which products to remove and which to keep stocked.
 
-
-<p align="center">
-<img width="600" alt="Import   Cleaning" src="https://user-images.githubusercontent.com/101911329/182038453-c7787c04-0ec8-4139-8417-fe33ce7d9c75.png">
-</p>
-<p align="center">
-<img width="600" alt="Create and separate columns" src="https://user-images.githubusercontent.com/101911329/182038450-db9ed136-eb0d-4bda-ad84-b9a1cdd0bc9b.png">
-</p>
-<p align="center">
-<img width="600" alt="Export" src="https://user-images.githubusercontent.com/101911329/182038452-b6ee1b1f-bde7-4bee-94b7-5c8776941baa.png">
-</p>
 
 ### Sales by Product
 <p align="center">
