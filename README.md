@@ -19,6 +19,25 @@ Tasks completed during preparations step:
 
 View code [Here](https://github.com/ericbjames/Excel_Sales_Project/blob/main/Data%20Preparation.ipynb)
 
+# Analysis
+
+## Insights:
+- October and December had the highest sales of the year. 
+- 12:00 and 19:00 were the times with the highest sales.
+- Cell phones, laptops, and headphones accounted for over 70% of sales.
+- San Francisco, Los Angeles, and New York accounted for 53% of total sales.
+- Apple products accounted for 55% of total sales.
+
+## Actionable steps for the business:
+- Look at the current strategy for attaching accessories to a purchase. Better store positioning, add-on deals, or website recommendations could boost attach rate. This should also include adding more accessories based on market research that pair well with the site’s most sold products: iPhone, Google phone, MacBook Pro, and ThinkPad.
+- Focusing marketing efforts on the typical customer during a given period such as a students/parents during back to school season should increase sales year-over-year.
+
+## Points for further analysis:
+- What deals were active during October and December? What part did back to school season and holiday have on the best months?
+- What is the typical customer profile? Student or business?
+- Gaining access to data for the profit/loss of products would help decide on which products to remove and which to keep stocked.
+
+
 <p align="center">
 <img width="600" alt="Import   Cleaning" src="https://user-images.githubusercontent.com/101911329/182038453-c7787c04-0ec8-4139-8417-fe33ce7d9c75.png">
 </p>
@@ -50,24 +69,6 @@ View code [Here](https://github.com/ericbjames/Excel_Sales_Project/blob/main/Dat
 <p align="center">
 <img width="600" alt="Sales by Hour" src="https://user-images.githubusercontent.com/101911329/181634865-4223010b-b6a4-4c2d-af3c-d04df177a7de.png">
 </p>
-# Analysis
-
-## Insights:
-- October and December had the highest sales of the year. 
-- 12:00 and 19:00 were the times with the highest sales.
-- Cell phones, laptops, and headphones accounted for over 70% of sales.
-- San Francisco, Los Angeles, and New York accounted for 53% of total sales.
-- Apple products accounted for 55% of total sales.
-
-## Actionable steps for the business:
-- Look at the current strategy for attaching accessories to a purchase. Better store positioning, add-on deals, or website recommendations could boost attach rate. This should also include adding more accessories based on market research that pair well with the site’s most sold products: iPhone, Google phone, MacBook Pro, and ThinkPad.
-- Focusing marketing efforts on the typical customer during a given period such as a students/parents during back to school season should increase sales year-over-year.
-
-## Points for further analysis:
-- What deals were active during October and December? What part did back to school season and holiday have on the best months?
-- What is the typical customer profile? Student or business?
-- Gaining access to data for the profit/loss of products would help decide on which products to remove and which to keep stocked.
-
 
 # Final Dashboard
 <p align="center">
